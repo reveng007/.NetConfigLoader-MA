@@ -55,3 +55,6 @@ public sealed class CLASSNAME : AppDomainManager
     }
 }
 ```
+
+### Malware Analysis Perspectove by [@embee_research](https://twitter.com/embee_research) 
+- https://embee-research.ghost.io/introduction-to-dotnet-configuration-extraction-revengerat/
